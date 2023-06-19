@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at <a>https://github.com/heritviroja</a>
 
 - 💬 Ask me about **JavaScript, React, CSS, Html**
 
