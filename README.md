@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herit Viroja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ahmedabad,India</h3>
 
 - 🔭 I’m currently working on **challenging projects**
 
